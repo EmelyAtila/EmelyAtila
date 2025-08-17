@@ -2,8 +2,10 @@
 
 **`FullStack Developer`**
 
-My name is Emely Atila, I'm 23 years old and I study computer engineering at UNLP college located in the province of Buenos Aires - La Plata (Argentina).  
-My native language is Portuguese, but I speak Spanish fluently.
+My name is Emely Atila.
+Professional with extensive experience in Computer Engineering concepts and practices, with advanced knowledge in areas such as Calculus, Physics, and the fundamentals of hardware and software systems.
+I have experience in developing and integrating solutions using technologies such as Java, C#, Node.js, JavaScript, HTML, CSS, and React, applying best practices in programming and architecture. I am capable of combining different technologies efficiently, aiming to optimize processes and deliver high-quality results.
+Committed to contributing to meaningful projects with a focus on innovation, performance, and scalability.
 
 - I seek to collaborate on fullstack and front-end projects.
 
