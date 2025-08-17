@@ -2,12 +2,13 @@
 
 **`FullStack Developer`**
 
-My name is Emely Atila.
-Professional with extensive experience in Computer Engineering concepts and practices, with advanced knowledge in areas such as Calculus, Physics, and the fundamentals of hardware and software systems.
-I have experience in developing and integrating solutions using technologies such as Java, C#, Node.js, JavaScript, HTML, CSS, and React, applying best practices in programming and architecture. I am capable of combining different technologies efficiently, aiming to optimize processes and deliver high-quality results.
-Committed to contributing to meaningful projects with a focus on innovation, performance, and scalability.
+Professional with solid background in Computer Engineering, with advanced knowledge in Calculus, Physics, hardware and software systems.
+Experienced in developing and integrating solutions using technologies such as Java, C#, Node.js, JavaScript, HTML, CSS, and React, applying best practices in programming and architecture.
 
-- I seek to collaborate on fullstack and front-end projects.
+Skilled at combining different technologies to optimize processes, improve performance, and deliver high-quality results.
+Committed to contributing to meaningful projects with a strong focus on innovation, scalability, and efficiency.
+
+- Open to collaborating on Fullstack and Frontend projects.
 
 ---
 
