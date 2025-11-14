@@ -12,11 +12,6 @@ Committed to contributing to meaningful projects with a strong focus on innovati
 
 ---
 
-### GitHub Stats
-
-| ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EmelyAtila&theme=github_dark) | ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EmelyAtila&theme=github_dark) |
-|:--:|:--:|
-
 <br/>
 
 <p>
