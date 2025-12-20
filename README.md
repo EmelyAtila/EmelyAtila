@@ -2,13 +2,10 @@
 
 **`FullStack Developer`**
 
-Professional with solid background in Computer Engineering, with advanced knowledge in Calculus, Physics, hardware and software systems.
-Experienced in developing and integrating solutions using technologies such as Java, C#, Node.js, JavaScript, HTML, CSS, and React, applying best practices in programming and architecture.
-
-Skilled at combining different technologies to optimize processes, improve performance, and deliver high-quality results.
-Committed to contributing to meaningful projects with a strong focus on innovation, scalability, and efficiency.
-
-- Open to collaborating on Fullstack and Frontend projects.
+I am a developer with experience in Computer Engineering concepts and practices. I studied Systems Analysis and Development in 2019 at UNIP, and in 2023 I ventured to study Engineering in another country, where I was able to deepen my skills in the field of technology.
+Currently, I dedicate my time to advanced knowledge in areas such as Calculus, Physics, and hardware and software fundamentals.
+I have experience in developing and integrating solutions using technologies such as Java, Python, Node.js, JavaScript, TypeScript, and React, applying good programming and architecture practices.
+I am focused on software development with an emphasis on scientific research, task optimization, and innovation.
 
 ---
 
