@@ -28,3 +28,6 @@ I am focused on software development with an emphasis on scientific research, ta
 
 <br/>
 
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="emely-atila" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/emely-atila?trk=profile-badge">Emely Atila</a></div>
+              
+
