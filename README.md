@@ -68,7 +68,7 @@ Meu foco é o desenvolvimento de software com ênfase em pesquisa científica, o
 <a href="https://wa.me/5561991727592" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
-<a href="[[https://portifolio-lodk.vercel.app/](https://emelyatila.vercel.app/)](https://emelyatila.vercel.app/)" target="_blank" rel="noopener noreferrer">
+<a href="https://emelyatila.vercel.app/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Portfólio-0A66C2?style=for-the-badge&logo=appveyor&logoColor=white" alt="Portfólio" />
 </a>
 
