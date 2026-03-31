@@ -15,7 +15,7 @@
 
 Sou um desenvolvedor com experiência em conceitos e práticas de Engenharia da Computação. Estudei Análise e Desenvolvimento de Sistemas em 2019 na UNIP e, em 2023, aventurei-me a estudar Engenharia em outro país, onde pude aprofundar minhas habilidades na área de tecnologia.
 Atualmente, dedico meu tempo ao conhecimento avançado na área de desenvolvimento e fundamentos de hardware e software.
-Tenho experiência no desenvolvimento e integração de soluções usando tecnologias como Java, Python, Node.js, JavaScript, TypeScript e React, aplicando boas práticas de programação e arquitetura.
+Tenho experiência no desenvolvimento e integração de soluções usando tecnologias como Java, Python, JavaScript, TypeScript e React, aplicando boas práticas de programação e arquitetura.
 Meu foco é o desenvolvimento de software com ênfase em pesquisa científica, otimização de tarefas e inovação.
 
 - ☕ **Backend:**  **Java (Spring Boot)**, APIs RESTful e Arquitetura de Microsserviços.
